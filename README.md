@@ -29,7 +29,7 @@ SwiftUIPhonePicker is a pure SwiftUI PhoneField with fancy country picker includ
         }
     }
     
-##  Feature Improvments
+##  Future Improvments
 - [x] Localization
 - [x] Country search
 - [x] Exclude Countries
